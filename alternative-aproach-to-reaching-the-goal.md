@@ -27,3 +27,8 @@ So it will invite contributors and possible users around the gloab.
 
 We have to agree on various deffinitions. Like: `ложная информация`(false information).
 What is false information or what IS information?
+
+## Need to poot aside information representation and relations within information
+
+One of the key failuyres of modern software related to information processing is mixing of onformation organization and formatting.
+Simple example is `latex` where you have mix of code ralated to formating and the code related to onformation descriptin(formulas).
